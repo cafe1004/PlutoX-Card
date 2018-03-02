@@ -1,0 +1,31 @@
+//---------------------------------------------------------------
+// Left Edge SCSS
+//---------------------------------------------------------------
+.left-edge-blue {
+  @include edge-color('blue');
+  @include edge-left(30px);
+}
+.left-edge-purple {
+  @include edge-color('purple');
+  @include edge-left(30px);
+}
+.left-edge-red {
+  @include edge-color('red');
+  @include edge-left(30px);
+}
+.left-edge-yellow {
+  @include edge-color('yellow');
+  @include edge-left(30px);
+}
+.left-edge-green {
+  @include edge-color('green');
+  @include edge-left(30px);
+}
+.left-edge-gray {
+  @include edge-color('gray');
+  @include edge-left(30px);
+}
+.left-edge-dark {
+  @include edge-color('dark');
+  @include edge-left(30px);
+}

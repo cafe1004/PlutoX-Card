@@ -1,0 +1,38 @@
+//---------------------------------------------------------------
+// Left+Right Edge SCSS
+//---------------------------------------------------------------
+.lr-edge-blue {
+  @include edge-color('blue');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-purple {
+  @include edge-color('purple');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-red {
+  @include edge-color('red');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-yellow {
+  @include edge-color('yellow');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-green {
+  @include edge-color('green');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-gray {
+  @include edge-color('gray');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
+.lr-edge-dark {
+  @include edge-color('dark');
+  @include edge-left(30px);
+  @include edge-right(30px);
+}
