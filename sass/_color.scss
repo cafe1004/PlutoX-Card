@@ -1,0 +1,46 @@
+//---------------------------------------------------------------
+// Color define SCSS
+//---------------------------------------------------------------
+
+// Optical range
+$optical: .2;
+
+// default color
+$blue:    rgb(0, 123, 255) !default;
+$purple:  rgb(110, 65, 193) !default;
+$red:     rgb(221, 53, 69) !default;
+$yellow:  rgb(255, 193, 6) !default;
+$green:   rgb(40, 167, 69) !default;
+$gray:    rgb(108, 117, 125) !default;
+$dark:    rgb(52, 58, 64) !default;
+$white:   rgb(255, 255, 255) !default;
+$black:   rgb(0, 0, 0) !default;
+// background color
+$bg-blue:    rgba($blue, $optical) !default;
+$bg-purple:  rgba($purple, $optical) !default;
+$bg-red:     rgba($red, $optical) !default;
+$bg-yellow:  rgba($yellow, $optical) !default;
+$bg-green:   rgba($green, $optical) !default;
+$bg-gray:    rgba($gray, $optical) !default;
+$bg-dark:    rgba($dark, $optical) !default;
+
+// default color array
+$default-color: (
+  'blue': $blue,
+  'purple': $purple,
+  'red': $red,
+  'yellow': $yellow,
+  'green': $green,
+  'gray': $gray,
+  'dark': $dark
+);
+// background color array
+$background-color: (
+  'blue': $bg-blue,
+  'purple': $bg-purple,
+  'red': $bg-red,
+  'yellow': $bg-yellow,
+  'green': $bg-green,
+  'gray': $bg-gray,
+  'dark': $bg-dark
+);

@@ -1,0 +1,24 @@
+//---------------------------------------------------------------
+// NON-Edge SCSS
+//---------------------------------------------------------------
+.non-edge-blue {
+  @include edge-color('blue');
+}
+.non-edge-purple {
+  @include edge-color('purple');
+}
+.non-edge-red {
+  @include edge-color('red');
+}
+.non-edge-yellow {
+  @include edge-color('yellow');
+}
+.non-edge-green {
+  @include edge-color('green');
+}
+.non-edge-gray {
+  @include edge-color('gray');
+}
+.non-edge-dark {
+  @include edge-color('dark');
+}

@@ -1,0 +1,31 @@
+//---------------------------------------------------------------
+// Top Edge SCSS
+//---------------------------------------------------------------
+.top-edge-blue {
+  @include edge-color('blue');
+  @include edge-top(10px);
+}
+.top-edge-purple {
+  @include edge-color('purple');
+  @include edge-top(10px);
+}
+.top-edge-red {
+  @include edge-color('red');
+  @include edge-top(10px);
+}
+.top-edge-yellow {
+  @include edge-color('yellow');
+  @include edge-top(10px);
+}
+.top-edge-green {
+  @include edge-color('green');
+  @include edge-top(10px);
+}
+.top-edge-gray {
+  @include edge-color('gray');
+  @include edge-top(10px);
+}
+.top-edge-dark {
+  @include edge-color('dark');
+  @include edge-top(10px);
+}

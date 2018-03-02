@@ -1,0 +1,38 @@
+//---------------------------------------------------------------
+// Top+Bottom Edge SCSS
+//---------------------------------------------------------------
+.tb-edge-blue {
+  @include edge-color('blue');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-purple {
+  @include edge-color('purple');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-red {
+  @include edge-color('red');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-yellow {
+  @include edge-color('yellow');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-green {
+  @include edge-color('green');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-gray {
+  @include edge-color('gray');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
+.tb-edge-dark {
+  @include edge-color('dark');
+  @include edge-bottom(10px);
+  @include edge-top(10px);
+}
