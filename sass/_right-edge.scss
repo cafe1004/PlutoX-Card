@@ -1,0 +1,31 @@
+//---------------------------------------------------------------
+// Right Edge SCSS
+//---------------------------------------------------------------
+.right-edge-blue {
+  @include edge-color('blue');
+  @include edge-right(30px);
+}
+.right-edge-purple {
+  @include edge-color('purple');
+  @include edge-right(30px);
+}
+.right-edge-red {
+  @include edge-color('red');
+  @include edge-right(30px);
+}
+.right-edge-yellow {
+  @include edge-color('yellow');
+  @include edge-right(30px);
+}
+.right-edge-green {
+  @include edge-color('green');
+  @include edge-right(30px);
+}
+.right-edge-gray {
+  @include edge-color('gray');
+  @include edge-right(30px);
+}
+.right-edge-dark {
+  @include edge-color('dark');
+  @include edge-right(30px);
+}
