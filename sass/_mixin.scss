@@ -3,7 +3,6 @@
 //---------------------------------------------------------------
 @mixin basic($border-width) {
   width: $default-width;
-  margin: $default-margin-top $default-margin-right;
   border-width: $border-width;
   border-style: solid;
   padding: $default-padding;
