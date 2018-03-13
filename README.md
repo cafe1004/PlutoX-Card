@@ -31,11 +31,13 @@ Top & Bottom edge card
 >Non edge card
 
 ## Current Version
-### v0.2.0
-##### What is new in v0.2.0  
-Open Demo Page
+### v0.3.1
+##### What is new in v0.3.1  
+Fix .pxc margin error
 
 ## History
+> #### Version 0.3.1
+  * Fix .pxc margin error
 > #### Version 0.2.0
   * Launched demo page
 > #### Version 0.1.0
